@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "grpCox"]
+	path = grpCox
+	url = https://github.com/xuandt1289/grpcox
+	shallow = true
+	registered = true
