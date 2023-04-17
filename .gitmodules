@@ -8,8 +8,3 @@
 	url = https://github.com/xuandt1289/grpcox
 	shallow = true
 	registered = true
-[submodule "L1mstate"]
-	path = L1mstate
-	url = https://github.com/cran/L1mstate
-	shallow = true
-	registered = true
